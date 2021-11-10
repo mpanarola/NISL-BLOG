@@ -1,0 +1,22 @@
+{
+  "name": "react-blog-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "faker": "4.1.0",
+    "lodash": "4.17.4",
+    "material-ui": "0.19.3",
+    "moment": "2.18.1",
+    "prop-types": "15.6.0",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-redux": "5.0.6",
+    "react-router-dom": "4.2.2",
+    "react-waypoint": "7.1.0",
+    "redux": "3.7.2",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.2.0"
+  }
+}
